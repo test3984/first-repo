@@ -1,3 +1,3 @@
 # first-repo
 
-edited on local repo
+This line was modified manually during conflic resolution
